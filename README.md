@@ -4,7 +4,7 @@ We’re going to design an API for the doctors of a Hospital which has been allo
 
 1. Clone or download this repository to your local machine.
 
-2. git clone https://github.com/Vikasyadav25/CSV_FILE_UPLOAD
+2. git clone https://github.com/Vikasyadav25/Hospital_API/
 
 3. npm start
 # Task
